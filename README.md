@@ -44,7 +44,7 @@
 
 ### Installation Method
 ```bash
-git clone https://github.com/your-repo/smart_file_organizer.git
+git clone https://github.com/BlockDev69/smart_file_organizer.git
 cd smart_file_organizer
 python -m venv .env
 pip install -r requirements.txt
