@@ -44,8 +44,8 @@
 
 ### Installation Method
 ```bash
-git clone https://github.com/your-repo/smart-file-organizer.git
-cd smart-file-organizer
+git clone https://github.com/your-repo/smart_file_organizer.git
+cd smart_file_organizer
 python -m venv .env
 pip install -r requirements.txt
 ```
@@ -65,7 +65,7 @@ python main.py
 
 ## 📁 Project Structure
 ```
-smart-file-organizer/
+smart_file_organizer/
 ├── core/               # Core business logic
 │   ├── classifier.py   # File classification
 │   ├── organizer.py   # File organization
