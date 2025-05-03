@@ -1,0 +1,8 @@
+{
+    "default_categories": ["Documents", "Images", "Media", "Autre"],
+    "model_path": "../models/model.pkl",
+    "rules": {
+        ".pdf": "Documents",
+        ".jpg": "Images"
+    }
+}
